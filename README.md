@@ -92,13 +92,6 @@ Removing 9th grade student scores from Thomas High School affected the school di
 - The overall passing rate dropped (-1%)
 
 
-Only scores for Thomas High School were affected:
-
-- Perentage of students passing math dropped from 93.2% to 66.9%
-- Percentage of students passing reading dropped from 97.3% to 69.7%
-- Overall passing percentage dropped from 90.9% to 65.1%
-
-
 Thomas High school is in the top 5 high school's list.
 
 After we have replaced the scores of the 9th grade students we learn that not much has changed. We have nullified the values that we felt would alter size, district, spending and overall passing percentage of the students.
